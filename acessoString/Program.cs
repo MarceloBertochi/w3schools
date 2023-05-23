@@ -37,6 +37,11 @@ namespace Concatenação
             Console.WriteLine(metadeNome);
 
 
+            string txt = "O aluno Marcelo está gostando de estudar na \\Etec\\";
+
+            Console.WriteLine(txt);
+
+
 
 
 
